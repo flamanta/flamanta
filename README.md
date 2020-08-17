@@ -1,6 +1,6 @@
 ### Hi there I'm Wei Min 👋
 
-<img align='right' src='https://media1.giphy.com/media/dvJ2cj83bTGKE7BuZX/giphy.gif' width='200"'>
+<p align='center'><img src='https://media1.giphy.com/media/dvJ2cj83bTGKE7BuZX/giphy.gif' width='200"'></p>
 
 - 🎓 &nbsp; Studying Electrical Engineering & Digital Humanities at SUTD.
 
