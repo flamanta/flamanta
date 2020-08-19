@@ -16,7 +16,7 @@
 
 ### Goals for 2020
 
-- 📝 &nbsp; Finish my course notes on Electromagnetism and Digital Systems Lab.
+- 📝 &nbsp; Finish my personal notes on Electromagnetism and Digital Systems Lab.
 
 - 💻 &nbsp; Redeploy a half adder on PYNQ-Z2 using Verilog.
 
