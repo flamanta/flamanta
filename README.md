@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Studying Electrical Engineering & Digital Humanities at SUTD.
 
-- 👷 &nbsp; Maintaining and compiling [course-notes](https://github.com/OpenSUTD/course-notes) at [**@OpenSUTD**](https://opensutd.org/).
+- 👷 &nbsp; Maintaining and compiling [course-notes](https://github.com/OpenSUTD/course-notes) [**@OpenSUTD**](https://opensutd.org/).
 
 - 💼 &nbsp; Recently completed 3rd internship stint at DSO National Laboratories.
 
