@@ -16,8 +16,8 @@
 
 ### Goals for 2020
 
-- 📝 &nbsp; Finished my notes on EM. Doing up notes on Digital Systems Lab as I take the course.
+- 📝 &nbsp; Shared my notes on EM. Doing up notes on Digital Systems Lab as I take the course.
 
-- 💻 &nbsp; Deployed a full adder on PYNQ-Z2 using Verilog. No soldering required!
+- 💻 &nbsp; Deployed a 14-bit full adder on PYNQ-Z2 using Verilog. No soldering required!
 
 - 💤 &nbsp; Get more rest and exercise to stay healthy!
