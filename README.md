@@ -8,16 +8,8 @@
 
 - 💼 &nbsp; Recently completed 3rd internship stint at DSO National Laboratories.
 
-- 🌱 &nbsp; Currently learning Verilog and FPGAs.
+- 🌱 &nbsp; Currently learning DSP.
 
 - 🎯 &nbsp; Committed to building open source communities.
 
 - 💬 &nbsp; Ask me about building a professional online presence!
-
-### Goals for 2020
-
-- 📝 &nbsp; Shared my notes on EM. Doing up notes on Digital Systems Lab as I take the course.
-
-- 💻 &nbsp; Deployed a 14-bit full adder on PYNQ-Z2 using Verilog. No soldering required!
-
-- 💤 &nbsp; Get more rest and exercise to stay healthy!
