@@ -1,6 +1,6 @@
 ### Hi there I'm Wei Min 👋
 
-<p align='center'><img src='https://media1.giphy.com/media/dvJ2cj83bTGKE7BuZX/giphy.gif' width='200"'></p>
+<p align='center'><img src='https://media1.giphy.com/media/dvJ2cj83bTGKE7BuZX/giphy.gif' height='200"'></p>
 
 - 👷 &nbsp; Maintaining and compiling [course-notes](https://github.com/OpenSUTD/course-notes) [**@OpenSUTD**](https://opensutd.org/).
 
